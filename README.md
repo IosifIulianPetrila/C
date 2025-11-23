@@ -1,4 +1,4 @@
-<h1>The C programming language through @C – augmented version of C programming language</h1>
+<h1>The C programming language through @C – augmented version of C programming language perspective</h1>
 
 @C is the augmented version of the C programming language that introduces a range of low-level and high-level augmentations/facilities designed to expand the language’s applicability across diverse computing systems, operations, and current programmers’ needs. The @C approach preserves the spirit and core characteristics of standard C through full compatibility, while also rejuvenating the language and bringing it closer to the state of the art found in modern programming languages.
 
