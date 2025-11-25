@@ -7,3 +7,5 @@ Iosif Iulian Petrila, "@C – augmented version of C programming language", arXi
 <h2>Examples<h2>
 
 ![Testing used macrodirective](@C%20%E2%80%93%20Augmented%20C%20Used%20Macrodirective.png)
+
+![Testing parallel directive](@C%20%E2%80%93%20Augmented%20C%20Parallel%20Directive.png)
